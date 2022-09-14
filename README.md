@@ -1,16 +1,62 @@
-# news_app
+# Ground News - News Application (Mock)
 
-A new Flutter project.
+Ground News is a mock news mobile application for getting news updates. It was developed using Dart and Flutter with usability in mind, the project fetches data from a predefined array of models and it's got a straightforward structure that's easy to understand.
 
-## Getting Started
+## :camera: Preview
 
-This project is a starting point for a Flutter application.
+<div style="display: flex;">
+    <video width="320" height="240" controls>
+        <source src="assets/screenshots/rec.mp4" type="video/mp4">
+    </video>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## :clipboard: Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Operating System (Windows, Linux or MacOS)
+- Flutter must be installed on the Operating System
+- Knowledge of the Flutter Framework
+- IDE (Visual Studio Code, Android Studio e.t.c)
+- Mobile Emulator or Mobile Device
+- Hands to code :smile:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :pushpin: Dependencies
+
+- flutter_svg: ^1.1.5
+- cached_network_image: ^3.2.2
+- connectivity_plus: ^2.3.6+1
+
+## :rocket: Getting Started
+
+NOTE: You must have Flutter installed to run this project. You can learn about the installation <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj2sp_h9e_5AhUSP-wKHQrvCx4QFnoECAkQAQ&url=https%3A%2F%2Fdocs.flutter.dev%2Fget-started%2Finstall&usg=AOvVaw0_DysGRxe6bHMb0c8Whvun">here</a>.
+
+#### 1. Clone the repository
+
+```sh
+$ git clone https://github.com/devwraithe/mobile_showcases
+```
+
+#### 2. Move to the project directory
+
+```
+$ cd mobile_showcase
+```
+
+#### 3. Install the required dependencies
+
+```sh
+$ flutter pub get
+```
+
+#### 4. Run the application (on a mobile device)
+
+```sh
+$ flutter run
+```
+
+## :heart: Think it's great?
+
+If you love this project and you find it useful, please consider giving it a :star: and share it with everyone you know :heart_eyes:.
+
+## :question: Need Help?
+
+- For support, you can get in touch with me via <a href="https://www.linkedin.com/in/ibrahimaibrahim">LinkedIn</a>
