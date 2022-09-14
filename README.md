@@ -4,14 +4,12 @@ Ground News is a mock news mobile application for getting news updates. It was d
 
 ## :camera: Preview
 
+
+<p>Visit <b><a href="https://player.vimeo.com/video/749574365?h=de39e4ece7">this link</a></b> to see the application in action</p>
 <div style="display: flex;">
     <img src="assets/screenshots/1.png" width="250" />
     <img src="assets/screenshots/2.png" width="250" />
     <img src="assets/screenshots/3.png" width="250" />
-</div>
-
-<div>
-    <iframe src="https://player.vimeo.com/video/749574365?h=de39e4ece7" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 ## :clipboard: Requirements
